@@ -1,6 +1,6 @@
 # CodeAlpha_IrisClassification
 ## Overview
-This repository contains the code for the **Iris Flower Classification** project completed as part of the CodeAlpha Data Science Internship. The objective is to train a machine learning model to classify Iris flower species (*setosa*, *versicolor*, *virginica*) based on physical measurements[span_0](start_span)[span_0](end_span).
+This repository contains the code for the **Iris Flower Classification** project completed as part of the CodeAlpha Data Science Internship. The objective is to train a machine learning model to classify Iris flower species (*setosa*, *versicolor*, *virginica*) based on physical measurements[span_0] (start_span) [span_0] (end_span).
 
 ## Project Workflow
 1. **Dataset Loading:** Automatically fetched the Iris dataset using `kagglehub`.
